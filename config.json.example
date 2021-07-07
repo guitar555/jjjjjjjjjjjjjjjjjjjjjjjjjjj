@@ -1,0 +1,7 @@
+{
+    "token": "Your bot's token",
+    "everyoneMention": false,
+    "hostedBy": true,
+    "default_prefix": ";",
+    "mongoose": "Your MongoDB cluster link"
+}
